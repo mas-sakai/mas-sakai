@@ -1,4 +1,4 @@
-## 準備中 👋
+## 準備中
 
 <!--
 **mas-sakai/mas-sakai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
